@@ -59,7 +59,7 @@ Cada laboratório contém:
 
 - ✅ Endereçamento IPv4
 - ✅ Comunicação entre Redes
-- 
+  
 ---
 
 ## 🚀 Objetivo do Repositório
